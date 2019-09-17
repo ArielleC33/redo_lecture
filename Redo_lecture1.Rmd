@@ -2,7 +2,7 @@
 title: "template"
 author: "Arielle"
 date: "9/17/2019"
-output: html_document
+output: git_document
 ---
 
 
